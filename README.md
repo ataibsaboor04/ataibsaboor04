@@ -4,11 +4,16 @@
 <h3 align="center" style="text-decoration: none;">📱 App Developer</h3>
 
 ## 🚀 About Me
-- A dedicated **Flutter app developer** with a passion for crafting user-friendly mobile applications. 
+- A dedicated **Flutter app developer** with a passion for crafting user-friendly mobile applications.
+
 - My journey began with **Python** and **Django**.
+
 - Experienced in Python and C++ object-oriented programming.
+
 - Passionate about automating workflows.
+
 - Explored **Firebase**.
+
 - Experienced building **backends** in Django, FastAPI, a simpler one in Dart, and utilizing Firebase, so, I don't hesitate to call myself a `full-stack app developer`.
     
 ## 🛠️ Skills
@@ -96,12 +101,12 @@ If you appreciate my work and see the potential for collaboration, I'm open to d
     <tr>
         <td><a href="https://www.linkedin.com/in/ataibsaboor04" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="30"></a></td>
         <td>LinkedIn:</td>
-        <td><a href="https://www.linkedin.com/in/ataibsaboor04">linkedin.com/in/yourprofile</a></td>
+        <td><a href="https://www.linkedin.com/in/ataibsaboor04">linkedin.com/in/ataibsaboor04</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/ataibsaboor04" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Icon" height="30"></a></td>
         <td>GitHub:</td>
-        <td><a href="https://github.com/ataibsaboor04">github.com/yourusername</a></td>
+        <td><a href="https://github.com/ataibsaboor04">github.com/ataibsaboor04</a></td>
     </tr>
     <tr>
         <td><a href="#" target="_blank"><img src="https://static-00.iconduck.com/assets.00/portfolio-icon-2048x2048-hdd0c1f0.png" alt="Portfolio Icon" height="30"></a></td>
