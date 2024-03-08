@@ -1,4 +1,4 @@
-<img align="center" alt="Header showing my name, title, expertise, and contact." src="https://github.com/ataibsaboor04/ataibsaboor04/assets/53258535/ff31a37e-89a6-4cf0-97c3-6a00a020ff14">
+<img align="center" alt="Header showing my name, title, expertise, and contact." src="https://github.com/ataibsaboor04/ataibsaboor04/assets/53258535/0f04cab8-3156-42fa-8bc5-f6c393b18891">
 
 <h1 align="center">Ataib Saboor</h1>
 <h3 align="center" style="text-decoration: none;">📱 App Developer</h3>
@@ -21,6 +21,10 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bloclibrary.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://pub.dev/packages/bloc/versions/8.1.3/gen-res/gen/190x190/logo.webp" alt="bloc" width="35" height="40"/> 
+  </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -61,6 +65,8 @@
 
 - <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter Logo" width="20" height="20"/> **Flutter (Framework in Dart)**: UI software development kit used to develop cross platform applications from a single codebase.
 
+- <img src="https://pub.dev/packages/bloc/versions/8.1.3/gen-res/gen/190x190/logo.webp" alt="Bloc Logo" width="20" height="23"/> **BLoC (State Management)**: A predictable state management library for Dart.
+
 - <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="20" height="20"/> **Django (Framework in Python)**: A high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 - <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI Logo" width="20" height="20"/> **FastAPI (Framework in Python)**: A modern web framework for building RESTful APIs.
@@ -96,7 +102,7 @@ If you appreciate my work and see the potential for collaboration, I'm open to d
     <tr>
         <td><a href="https://wa.me/923170119103" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="WhatsApp Icon" height="30"></a></td>
         <td>WhatsApp:</td>
-        <td><a href="https://wa.me/923170119103">+92 317-0119103</a></td>
+        <td><a href="https://wa.me/923170119103">+92 332-2264923</a></td>
     </tr>
     <tr>
         <td><a href="https://www.linkedin.com/in/ataibsaboor04" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" height="30"></a></td>
