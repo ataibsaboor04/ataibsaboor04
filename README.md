@@ -6,19 +6,20 @@
 
 * 💻 **Odoo Developer & Technical Consultant**
 * 📍 Based in Karachi, Pakistan 🇵🇰
-* 🕐 **1+ years** of professional experience at [Odolution](https://odolution.com) (Official Odoo Partner)
+* 🕐 **1.5+ years** of professional Odoo experience
 * 📂 **10+ projects** delivered successfully
 * 🛠️ **25+ modules** customized
 * ✅ **100% client satisfaction**
 
 ## 💼 About Me
 
-With **1+ years** of experience in Odoo, I specialize in developing custom ERP solutions that automate business operations. I deliver powerful ERP solutions with Odoo, tailored to drive your business forward.
+I design and develop custom Odoo ERP solutions that automate operations, eliminate manual work, and bridge the gap between technology and your core business goals. The result? A tailored system that drives efficiency and accelerates growth.
 
 **✨ What I bring to the table:**
-* Experience with Odoo versions **v15, v16, v17, and v18**
+* Experience with Odoo versions **v15, v16, v17, v18, and v19**
 * Clean, scalable code that aligns technology with business goals
 * Solutions for clients across diverse industries
+* Ability to translate business requirements into technical solutions
 
 ## 🛠️ Skills
 
@@ -35,7 +36,7 @@ With **1+ years** of experience in Odoo, I specialize in developing custom ERP s
 * Git
 * Docker
 
-## 💡 My Services
+## 💡 Services I Offer
 
 * 🔧 ERP Implementation & Business Automation
 * 💻 Technical Consultancy & Custom Development
