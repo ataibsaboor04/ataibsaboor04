@@ -25,7 +25,9 @@ I design and develop custom Odoo ERP solutions that automate operations, elimina
 
 * Python
 * XML
+* JavaScript
 * PostgreSQL
+* OWL Framework
 * Third-party Integration (API)
 * QWeb PDF and Excel Reports
 * Web Controllers
