@@ -6,8 +6,8 @@
 
 * 💻 **Odoo Developer & Technical Consultant**
 * 📍 Based in Karachi, Pakistan 🇵🇰
-* 🕐 **1.5+ years** of professional Odoo experience
-* 📂 **10+ projects** delivered successfully
+* 🕐 **2+ years** of professional Odoo experience
+* 📂 **12+ projects** delivered successfully
 * 🛠️ **25+ modules** customized
 * ✅ **100% client satisfaction**
 
